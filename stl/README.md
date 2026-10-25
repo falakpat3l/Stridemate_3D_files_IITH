@@ -1,4 +1,4 @@
-# Device Design Portfolio — Falak Ameesh Patel
+# Device Design Portfolio: Falak Ameesh Patel
 
 CAD source geometry for assistive and diagnostic medical hardware, 2024–2026.
 
@@ -6,7 +6,7 @@ CAD source geometry for assistive and diagnostic medical hardware, 2024–2026.
 
 ---
 
-## StrideMate — wearable lower-limb assistive exoskeleton
+## StrideMate: wearable lower-limb assistive exoskeleton
 M.Tech thesis, Medical Device Innovation, IIT Hyderabad (2025–2026).
 Supervisors: Dr Safvan Palathingal (Mechanical & Aerospace Engineering), Prof. Renu John (Biomedical Engineering).
 
@@ -24,19 +24,19 @@ Design problem identified through 180+ hours of clinical immersion at Kamineni H
 L.B. Nagar (December 2024, orthopaedic and neurology departments).
 
 ### Files
-- `walking assist.stl` — main assembly
-- `Walking Assist exterior.stl` — exterior shell
-- `joint hip 6.stl`, `Hip joint Cup.stl`, `hip cup2.stl` — hip joint assemblies
-- `Motor hosing V6.stl`, `Motor Base V6.stl` — drive housings
-- `tof_rod.stl`, `tof_switch.stl` — time-of-flight sensor mounts
+- `walking assist.stl`: main assembly
+- `Walking Assist exterior.stl`: exterior shell
+- `joint hip 6.stl`, `Hip joint Cup.stl`, `hip cup2.stl`: hip joint assemblies
+- `Motor hosing V6.stl`, `Motor Base V6.stl`: drive housings
+- `tof_rod.stl`, `tof_switch.stl`: time-of-flight sensor mounts
 
 ## Prosthetics
-- `assembled transtibial prosthesis.stl` — below-knee prosthesis assembly
+- `assembled transtibial prosthesis.stl`: below-knee prosthesis assembly
 - `Combine Hip Prosthesis.stl`, `Trans-tibial (below-knee) Prosthesis.stl`
 
 ## Augmentation and mechanisms
-- `3rd thumb 1.stl`, `single pc thumb.stl` — supernumerary digit, human–machine adaptation study
-- `compliant_thumb.stl` — single-piece flexure design, no pin joints
+- `3rd thumb 1.stl`, `single pc thumb.stl`: supernumerary digit, human-machine adaptation study
+- `compliant_thumb.stl`: single-piece flexure design, no pin joints
 
 ---
 

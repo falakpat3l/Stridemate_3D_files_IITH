@@ -1,8 +1,11 @@
-# StrideMate — mechanical CAD
+# StrideMate: mechanical CAD
 
 Fusion 360 sources, STEP and STL files for **StrideMate**, a low-cost
 lower-limb walking-assist exoskeleton, produced during my M.Tech at
 IIT Hyderabad.
+
+> **Status: complete (October 2026).** The M.Tech project has finished and this repository is on hold.
+> The files stay available as they are; no further changes are planned.
 
 ## Contents
 
@@ -13,8 +16,8 @@ IIT Hyderabad.
 | `stl/` | Mesh exports, ready to slice and print |
 | `cnc_leg_diagram.png` | CNC machining reference for the thigh links |
 
-Parts cover the walking-assist assemblies — hip joints, motor housings,
-time-of-flight sensor mounts, thigh links — alongside related work from the
+Parts cover the walking-assist assemblies (hip joints, motor housings,
+time-of-flight sensor mounts, thigh links), alongside related work from the
 same period: a transtibial prosthesis, a combined hip prosthesis, and
 compliant-mechanism thumb designs.
 
@@ -27,7 +30,7 @@ compliant-mechanism thumb designs.
 
 ## Licence
 
-**[CC BY-NC-SA 4.0](LICENSE)** — Attribution, NonCommercial, ShareAlike.
+**[CC BY-NC-SA 4.0](LICENSE)**: Attribution, NonCommercial, ShareAlike.
 You may share and adapt these files for non-commercial purposes with credit,
 and must license anything you build from them under the same terms. For
 commercial use, contact me.
